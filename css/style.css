@@ -1,0 +1,135 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #f5f7fa;
+}
+.no-underline-contacts {
+  text-decoration: none;
+  cursor: pointer;
+  color: #ffffff;
+}
+.no-underline-main {
+  text-decoration: none;
+  cursor: pointer;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+.main-section {
+  display: flex;
+  flex-direction: row;
+  width: 70%;
+  margin: 40px auto;
+  background-color: #ffffff;
+}
+.main-content-section {
+  padding: 50px 68px;
+}
+.main-title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 55px;
+  color: #000000;
+  margin-top: 19px;
+  margin-bottom: 24px;
+}
+.main-content-title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 28px;
+  color: #000000;
+  margin-top: 44px;
+  margin-bottom: 0px;
+}
+.main-content-subtitle {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  color: #000000;
+  margin-top: 12px;
+  margin-bottom: 0px;
+}
+.main-content-orange {
+  color: #fb6d3a;
+}
+.main-list {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  padding: 0 0 0 16px;
+}
+.main-list-project {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.main-data-text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+  margin-bottom: 12px;
+  margin-top: 12px;
+}
+.main-about-me {
+  width: 400px;
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 400;
+  color: #595959;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.my-education-section {
+  color: black;
+}
+.sidebar-section {
+  background-color: #1e2939;
+  color: #ffffff;
+  width: 350px;
+}
+.sidebar-title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #ffffff;
+  margin: 0 0 8px 0;
+}
+.sidebar-foto {
+  margin-top: 40px;
+}
+.contact-section,
+.techskills-section,
+.softskills-section {
+  margin-top: 44px;
+  padding-left: 40px;
+}
+.contacts-text {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+}
+.skills-list {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fb6d3a;
+  padding: 0 0 0 16px;
+}
+.skils-text {
+  color: #ffffff;
+}
